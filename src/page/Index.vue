@@ -1,7 +1,6 @@
 <template>
-  <div id="app">
-    <img src="./assets/logo.png">
-    <router-view></router-view>
+  <div id="index">
+    上岛咖啡好几款老实交代罚款了
   </div>
 </template>
 
